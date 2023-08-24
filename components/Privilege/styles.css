@@ -1,0 +1,40 @@
+.privilege-text>a {
+    padding-top: 16px;
+    border-bottom: solid 1px #AB9834;
+    color: #AB9834;
+    display: inline-block;
+}
+
+.privilege-text a {
+    border-bottom: solid 1px #AB9834;
+    color: rgb(171 152 52 / var(--tw-text-opacity));
+}
+
+.privilege-text>ul {
+    list-style: disc !important;
+    padding: 0 0 0 20px !important;
+}
+
+.privilege-text>ol {
+    list-style: decimal !important;
+    padding: 0 0 0 20px !important;
+}
+
+table.border td,
+table.border th {
+    border-width: 1px;
+}
+
+.subHeading_top {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.font-weight-bold {
+    font-weight: 700;
+}
+
+.privilege-text>p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
